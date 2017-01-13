@@ -1,0 +1,1 @@
+Este proyecto se corresponde con hibernate para las BD del tipo 1:1 Unidireccionales
